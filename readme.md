@@ -42,8 +42,8 @@ Game Developer | C++ | Godot | Frontend
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vofe09&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vofe09&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vofe09&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vofe09&layout=compact&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vofe09&theme=tokyo-night)
