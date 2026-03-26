@@ -1,11 +1,11 @@
-# Hi, I'm Nazar 👋
+# Yo, I'm N. Kovalev 👋
 
-Game Developer | Godot | C++
+Game Developer | C++ | Godot | Frontend
 
 ## 🚀 About Me
 
 - 🎮 Developing games using Godot and GDScript
-- 💻 Working with C++ for performance-critical and low-level logic
+- 💻 Working with C++ for building daily apps
 - 📚 Learning game architecture, clean code, and system design
 - 🧠 Interested in gameplay systems, mechanics, and optimization
 - 🎯 Goal: build polished indie games with solid architecture
@@ -25,7 +25,7 @@ Game Developer | Godot | C++
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📂 Projects
+<!-- ## 📂 Projects
 
 ### 🕹 Survival Game
 
@@ -38,10 +38,10 @@ Game Developer | Godot | C++
 
 - Prototyping mechanics and systems
 - Testing architecture approaches in Godot
-- Exploring performance optimization
+- Exploring performance optimization -->
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vofe09&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vofe09&layout=compact&theme=tokyonight)
