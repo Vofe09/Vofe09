@@ -2,8 +2,6 @@
 
 Game Developer | C++ | Godot
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Game+Developer;C%2B%2B+Developer;Godot+Enthusiast)
-
 ## 🚀 About Me
 
 - 🎮 Developing games using Godot and GDScript
