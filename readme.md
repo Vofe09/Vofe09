@@ -14,9 +14,9 @@ Game Developer | C++ | Godot | Frontend
 
 **Languages:**
 
-![GDScript](https://img.shields.io/badge/GDScript-2D2D2D?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-2D2D2D?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 **Tools & Engine:**
 
@@ -42,6 +42,8 @@ Game Developer | C++ | Godot | Frontend
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vofe09&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vofe09&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vofe09&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vofe09&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vofe09&theme=tokyo-night)
